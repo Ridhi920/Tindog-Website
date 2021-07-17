@@ -1,0 +1,267 @@
+#title{
+    background-color: #ff4c68;
+}
+
+
+#pos{
+    position: relative;
+    left:63%;
+    font-size: 20px;
+}
+
+
+#brand{
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+    left:10%;
+    font-size: 50px;
+}
+
+
+.rotated {
+    /* position: relative;
+    right:5%; */
+    transform: rotate(25deg); /* Equal to rotateZ(45deg) */
+  
+  }
+/* #title-image{
+    position:absolute;
+}
+#features{
+    position: relative;
+    
+
+} */
+
+
+.we{
+    position: relative;
+    top:10%;
+}
+
+
+.features-box{
+    text-align: center;
+    padding: 6% 20% 6% 20%;
+   
+}
+
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+
+.para{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #796f6f;
+    padding-top: 3%;
+}
+
+
+.style{
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    /* font-size: larger;  */
+}
+
+
+#description{
+    position: relative;
+    left: 10.5%;
+    padding-top: 3%;
+    /* padding-bottom: 0%; */
+}
+
+
+#description-img{
+    position: relative;
+    left:10%;
+}
+
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    color: #fff;
+    /* line-height: 2; */
+}
+
+
+.hh{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 3rem ;
+    line-height:1.5;
+    color: #fff;
+}
+
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+
+    /* font-size: 20px; */
+}
+
+
+.ho{
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+
+.meet{
+    font-size: 90px;
+    padding-bottom: 4%;
+    font-weight: bolder;
+}
+
+
+#testimonials{
+    padding: 6% 20%;
+    text-align: center;
+    background-color: #ef8172;
+}
+
+
+.testimonial-image{
+    width:20%;
+    border-radius: 100%;
+    margin: 5%;
+}
+
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+
+.press-logo{
+    width:13%;
+    margin: 20px 20px 50px ;
+}
+
+
+#pricing{
+    padding: 120px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.pricing-column{
+    padding: 5% 5%;
+}
+
+
+.add{
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+
+.par{
+    color: #796f6f;
+    font-size: 25px;
+    font-family:'Montserrat', sans-serif ;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+
+.boldy{
+    font-weight: bolder;
+    padding: 2%;
+    font-size:40px ;
+}                      
+                                              
+
+#feature{
+    color: #fff;
+
+}                                                                                                                                                                                                                                                                                                             
+
+
+.boby{
+    line-height: 2;
+    font-size: 30px;
+    color:#796f6f;
+}
+
+
+.price{
+    font-weight: bolder;
+    font-size: 50px;
+    color: black;
+}
+
+
+/* RESPONSIVE */
+
+
+@media (max-width:1128) {
+    #tin{
+        text-align:center;
+    }
+
+    #s{
+        position: static;
+        transform: rotate(0);
+    }
+    
+}
+
+
+/* CALL TO ACTION  */
+
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 8% 15%;
+}
+
+
+#ctaid{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif ;
+    font-size: 80px;
+    font-weight: bolder;
+    padding-bottom: 5%;
+}
+
+
+/* FOOTER */
+
+
+#footer{
+    color: #796f6f;
+    font-family: 'Montserrat', sans-serif ;
+    font-size: 20px;
+    padding: 8% 15%;
+    text-align: center;
+}
+
+
+#twit{
+    color: black;
+    margin-bottom: 1%;
+}
+
+
+#twit:hover{
+    color: #3d1fc0;
+}
